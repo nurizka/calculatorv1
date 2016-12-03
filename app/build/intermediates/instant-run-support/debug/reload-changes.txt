@@ -1,0 +1,3 @@
+CHANGED,E:\Aplikasi Android\Calculator\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\dycode\co\id\calculator\MainActivity$override.class
+CHANGED,E:\Aplikasi Android\Calculator\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,E:\Aplikasi Android\Calculator\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\dycode\co\id\calculator\MainActivity_ViewBinding$override.class
